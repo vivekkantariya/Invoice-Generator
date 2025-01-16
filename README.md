@@ -24,7 +24,10 @@
 - **MongoDB**: Database system for storing invoice data.
 - **Pymongo**: Python library for interacting with MongoDB.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/invoice-generator.git
+# Usage
+Launch the application and input customer and product details into the fields.
+The generated invoice will be displayed on the GUI.
+The invoice details will be automatically saved to the MongoDB database for future reference.
+
+# Contribution
+Feel free to fork this repository and submit pull requests. For bug reports or feature requests, open an issue.
